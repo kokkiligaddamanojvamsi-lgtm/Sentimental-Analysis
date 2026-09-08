@@ -40,7 +40,7 @@ You can run any of the notebooks in Google Colab or a local Jupyter environment.
 
 1.  **Clone this repository:**
     ```sh
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+    git clone https://github.com/kokkiligaddamanojvamsi-lgtm/Sentimental-Analysis.git
     ```
 
 2.  **Install dependencies:**
